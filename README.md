@@ -3,10 +3,12 @@
 
 Uso:
 
+No arquivo .env adicione o seu secret do weather api.
+
+Rode o comando:
+
 ```
-
 docker-compose up --build
-
 ```
 
 Testa local:
